@@ -14,4 +14,6 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Image Crop](https://github.com/andersthorborg/ACF-Image-Crop) - Adds an 'Image with user-crop' field type.
 * [Column](https://github.com/tmconnect/ACF-Column-Field) - Arrange ACF fields in columns.
 * [Sidebar Selector](https://github.com/danielpataki/acf-sidebar-selector) - allows you to select a sidebar.
+* [Google Font Selector](https://github.com/wp-plugins/acf-google-font-selector-field) - allow users to select Google Fonts.
+* [Advanced Taxonomy Selector](https://github.com/danielpataki/acf-advanced-taxonomy-selector) - allows you to create a field for users to select terms from multiple taxonomies.
 
