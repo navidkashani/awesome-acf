@@ -8,4 +8,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 
 * [Gravity Forms](https://github.com/stormuk/Gravity-Forms-ACF-Field) - Creates a select field populated with Gravity Forms.
 * [Contact Form 7](https://github.com/taylormsj/acf-cf7) - Store one or multiple contact forms in an advanced custom field.
+* [Date and Time Picker](https://github.com/soderlind/acf-field-date-time-picker) - allows you to add a Date and Time Picker field type.
+* [Fold Flexible Content](https://github.com/urre/acf-fold-flexible) - Collapsed flexible content panels and showing icons representing each field type.
+* [Repeater & Flexible Content Fields Collapser](https://github.com/mrwweb/ACF-Repeater-Collapser) - Easier sorting for large repeated fields in the Advanced Custom Fields plugin.
 
