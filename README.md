@@ -22,4 +22,9 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Hue Color Picker](https://github.com/reyhoun/acf-hue-color-picker) - allow users to select a hue color value.
 * [Typography](https://github.com/reyhoun/acf-typography) - provides a field containing the all font css attribute with google font support.
 * [Menu Chooser](https://github.com/reyhoun/acf-menu-chooser) - allows you to select a menu.
+* [Nav Menu Field](https://github.com/jgraup/advanced-custom-fields-nav-menu-field) - allowing you to select from the menus you create in the WordPress Admin backend to use on your website's frontend.
+* [Flickr](https://github.com/phuisman88/flickrfield) - grant you the ability to include photos, sets and galleries from your Flickr account.
+* [Options Page Adder](https://github.com/Hube2/acf-options-page-adder) - Allows easy creation of options pages using Advanced Custom Fields Pro needing to do any PHP coding.
+* [Relationship Multisite](https://github.com/tmconnect/acf-relationship-multisite) - Get post, pages and custom post types from another site of your WordPress Multisite installation.
+* [Font Awesome](https://wordpress.org/plugins/advanced-custom-fields-font-awesome/) - allow users to select icon from font awesome.
 
