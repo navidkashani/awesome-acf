@@ -19,4 +19,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Sites](https://github.com/jonathan-dejong/acf-sites) - provides a field containing the sites in a multisite network.
 * [Background](https://github.com/reyhoun/acf-background) - provides a field containing the all background css attribute.
 * [Sub Field Chooser](https://github.com/reyhoun/acf-subfield-chooser) - Return custom subfield value of a custom repeater field as a select box.
+* [Hue Color Picker](https://github.com/reyhoun/acf-hue-color-picker) - allow users to select a hue color value.
+* [Typography](https://github.com/reyhoun/acf-typography) - provides a field containing the all font css attribute with google font support.
+* [Menu Chooser](https://github.com/reyhoun/acf-menu-chooser) - allows you to select a menu.
 
