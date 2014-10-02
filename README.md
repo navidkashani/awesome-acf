@@ -28,3 +28,6 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Relationship Multisite](https://github.com/tmconnect/acf-relationship-multisite) - Get post, pages and custom post types from another site of your WordPress Multisite installation.
 * [Font Awesome](https://wordpress.org/plugins/advanced-custom-fields-font-awesome/) - allow users to select icon from font awesome.
 
+
+## Other Awesome Lists
+Other amazingly awesome lists can be found in [awesome awesomeness](https://github.com/bayandin/awesome-awesomeness).
