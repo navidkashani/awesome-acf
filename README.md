@@ -16,4 +16,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Sidebar Selector](https://github.com/danielpataki/acf-sidebar-selector) - allows you to select a sidebar.
 * [Google Font Selector](https://github.com/wp-plugins/acf-google-font-selector-field) - allow users to select Google Fonts.
 * [Advanced Taxonomy Selector](https://github.com/danielpataki/acf-advanced-taxonomy-selector) - allows you to create a field for users to select terms from multiple taxonomies.
+* [Sites](https://github.com/jonathan-dejong/acf-sites) - provides a field containing the sites in a multisite network.
+* [Background](https://github.com/reyhoun/acf-background) - provides a field containing the all background css attribute.
+* [Sub Field Chooser](https://github.com/reyhoun/acf-subfield-chooser) - Return custom subfield value of a custom repeater field as a select box.
 
