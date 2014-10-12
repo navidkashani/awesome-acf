@@ -28,6 +28,8 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Relationship Multisite](https://github.com/tmconnect/acf-relationship-multisite) - Get post, pages and custom post types from another site of your WordPress Multisite installation.
 * [Font Awesome](https://wordpress.org/plugins/advanced-custom-fields-font-awesome/) - allow users to select icon from font awesome.
 * [Image Resize Parameter](https://github.com/reyhoun/acf-image-resize-parameter) - Get Image Resize Parameter from user.
+* [RGBA Color](https://github.com/reyhoun/acf-rgba-color) - RGBA Color Picker field type.
+* [Widget Area](https://github.com/dustyf/acf-widget-area) - Allows you to pick a widget area to be displayed on a page.
 
 
 ## Other Awesome Lists
