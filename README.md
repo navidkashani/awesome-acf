@@ -30,6 +30,9 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Image Resize Parameter](https://github.com/reyhoun/acf-image-resize-parameter) - Get Image Resize Parameter from user.
 * [RGBA Color](https://github.com/reyhoun/acf-rgba-color) - RGBA Color Picker field type.
 * [Widget Area](https://github.com/dustyf/acf-widget-area) - Allows you to pick a widget area to be displayed on a page.
+* [Pages by Template](https://github.com/jonathan-dejong/acf-pages-by-template) - select a page, filtered on pages of a specific template.
+* [Bidirectional Post Relation](https://github.com/hereswhatidid/acf-2way-pr) - Creates an extended version of the Related Post field type that is bidirectional.
+* [Leaflet map](https://github.com/jensjns/acf-leaflet-field) - adds a Leaflet map-field.
 
 
 ## Other Awesome Lists
