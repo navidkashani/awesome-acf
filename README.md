@@ -12,6 +12,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Column](https://github.com/tmconnect/ACF-Column-Field) - Arrange ACF fields in columns.
 * [Contact Form 7](https://github.com/taylormsj/acf-cf7) - Store one or multiple contact forms in an advanced custom field.
 * [Date and Time Picker](https://github.com/soderlind/acf-field-date-time-picker) - allows you to add a Date and Time Picker field type.
+* [Frontend form](https://github.com/dadmor/ACF_frontend_display) - display ACF form on frontend your site.
 * [Flickr](https://github.com/phuisman88/flickrfield) - grant you the ability to include photos, sets and galleries from your Flickr account.
 * [Fold Flexible Content](https://github.com/urre/acf-fold-flexible) - Collapsed flexible content panels and showing icons representing each field type.
 * [Font Awesome](https://wordpress.org/plugins/advanced-custom-fields-font-awesome/) - allow users to select icon from font awesome.
