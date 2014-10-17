@@ -22,6 +22,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Image Crop](https://github.com/andersthorborg/ACF-Image-Crop) - Adds an 'Image with user-crop' field type.
 * [Image Resize Parameter](https://github.com/reyhoun/acf-image-resize-parameter) - Get Image Resize Parameter from user.
 * [Leaflet map](https://github.com/jensjns/acf-leaflet-field) - adds a Leaflet map-field.
+* [Markdown](https://github.com/jensjns/acf-markdown-field) - a textarea with some extra tools and features that makes writing markdown more fun.
 * [Menu Chooser](https://github.com/reyhoun/acf-menu-chooser) - allows you to select a menu.
 * [Nav Menu Field](https://github.com/jgraup/advanced-custom-fields-nav-menu-field) - allowing you to select from the menus you create in the WordPress Admin backend to use on your website's frontend.
 * [Options Page Adder](https://github.com/Hube2/acf-options-page-adder) - Allows easy creation of options pages using Advanced Custom Fields Pro needing to do any PHP coding.
