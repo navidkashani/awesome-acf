@@ -27,6 +27,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Nav Menu Field](https://github.com/jgraup/advanced-custom-fields-nav-menu-field) - allowing you to select from the menus you create in the WordPress Admin backend to use on your website's frontend.
 * [Options Page Adder](https://github.com/Hube2/acf-options-page-adder) - Allows easy creation of options pages using Advanced Custom Fields Pro needing to do any PHP coding.
 * [Pages by Template](https://github.com/jonathan-dejong/acf-pages-by-template) - select a page, filtered on pages of a specific template.
+* [Post Type Chooser](https://github.com/reyhoun/acf-post-type-chooser) - Create a select field populated with selected post types.
 * [Relationship Multisite](https://github.com/tmconnect/acf-relationship-multisite) - Get post, pages and custom post types from another site of your WordPress Multisite installation.
 * [Repeater & Flexible Content Fields Collapser](https://github.com/mrwweb/ACF-Repeater-Collapser) - Easier sorting for large repeated fields in the Advanced Custom Fields plugin.
 * [RGBA Color](https://github.com/reyhoun/acf-rgba-color) - RGBA Color Picker field type.
@@ -35,6 +36,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Star Rating](https://github.com/kevdotbadger/acf-star-rating) - A simple star rating field.
 * [Sub Field Chooser](https://github.com/reyhoun/acf-subfield-chooser) - Return custom subfield value of a custom repeater field as a select box.
 * [Typography](https://github.com/reyhoun/acf-typography) - provides a field containing the all font css attribute with google font support.
+* [Validated Field](https://wordpress.org/plugins/validated-field-for-acf/) - provides input masking and validation of other field types.
 * [Widget Area](https://github.com/dustyf/acf-widget-area) - Allows you to pick a widget area to be displayed on a page.
 
 
