@@ -7,11 +7,13 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 *Compatible with Version 5.*
 
 * [Advanced Taxonomy Selector](https://github.com/danielpataki/acf-advanced-taxonomy-selector) - allows you to create a field for users to select terms from multiple taxonomies.
+* [Auto-generated value](https://github.com/andersthorborg/ACF-auto-generated-value) - Creates a hidden/readonly field in a repeater that gets a unique key, that won't change once it is saved.
 * [Background](https://github.com/reyhoun/acf-background) - provides a field containing the all background css attribute.
 * [Bidirectional Post Relation](https://github.com/hereswhatidid/acf-2way-pr) - Creates an extended version of the Related Post field type that is bidirectional.
 * [Column](https://github.com/tmconnect/ACF-Column-Field) - Arrange ACF fields in columns.
 * [Contact Form 7](https://github.com/taylormsj/acf-cf7) - Store one or multiple contact forms in an advanced custom field.
 * [Date and Time Picker](https://github.com/soderlind/acf-field-date-time-picker) - allows you to add a Date and Time Picker field type.
+* [Enhanced Message Field](https://wordpress.org/plugins/acf-enhanced-message-field/) - Adds an enhanced version of the default Message field to accept PHP and certainly no wpauto().
 * [Frontend form](https://github.com/dadmor/ACF_frontend_display) - display ACF form on frontend your site.
 * [Flickr](https://github.com/phuisman88/flickrfield) - grant you the ability to include photos, sets and galleries from your Flickr account.
 * [Fold Flexible Content](https://github.com/urre/acf-fold-flexible) - Collapsed flexible content panels and showing icons representing each field type.
