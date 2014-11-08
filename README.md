@@ -6,6 +6,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 ## Third-Party Add-Ons
 *Compatible with Version 5.*
 
+* [Address](https://github.com/strickdj/acf-field-address) - A field to hold an address: street, city, state, country.
 * [Advanced Taxonomy Selector](https://github.com/danielpataki/acf-advanced-taxonomy-selector) - allows you to create a field for users to select terms from multiple taxonomies.
 * [Auto-generated value](https://github.com/andersthorborg/ACF-auto-generated-value) - Creates a hidden/readonly field in a repeater that gets a unique key, that won't change once it is saved.
 * [Background](https://github.com/reyhoun/acf-background) - provides a field containing the all background css attribute.
