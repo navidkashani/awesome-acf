@@ -31,6 +31,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Options Page Adder](https://github.com/Hube2/acf-options-page-adder) - Allows easy creation of options pages using Advanced Custom Fields Pro needing to do any PHP coding.
 * [Pages by Template](https://github.com/jonathan-dejong/acf-pages-by-template) - select a page, filtered on pages of a specific template.
 * [Pardot Form](https://github.com/adriangonzales/acf-pardot-forms) - embedding Pardot Forms via an ACF dropdown.
+* [PayPal](https://github.com/mikerodriguez/acf-paypal-field) - integrate PayPal forms onto your WP site with the use of ACF.
 * [Post Type Chooser](https://github.com/reyhoun/acf-post-type-chooser) - Create a select field populated with selected post types.
 * [Relationship Multisite](https://github.com/tmconnect/acf-relationship-multisite) - Get post, pages and custom post types from another site of your WordPress Multisite installation.
 * [Repeater & Flexible Content Fields Collapser](https://github.com/mrwweb/ACF-Repeater-Collapser) - Easier sorting for large repeated fields in the Advanced Custom Fields plugin.
