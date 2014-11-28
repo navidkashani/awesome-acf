@@ -19,6 +19,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Flickr](https://github.com/phuisman88/flickrfield) - grant you the ability to include photos, sets and galleries from your Flickr account.
 * [Fold Flexible Content](https://github.com/urre/acf-fold-flexible) - Collapsed flexible content panels and showing icons representing each field type.
 * [Font Awesome](https://wordpress.org/plugins/advanced-custom-fields-font-awesome/) - allow users to select icon from font awesome.
+* [Fontello](https://github.com/aolin480/acf-fontello) - A ACF input for Fontello Icon Fonts.
 * [Google Font Selector](https://github.com/wp-plugins/acf-google-font-selector-field) - allow users to select Google Fonts.
 * [Gravity Forms](https://github.com/stormuk/Gravity-Forms-ACF-Field) - Creates a select field populated with Gravity Forms.
 * [Hue Color Picker](https://github.com/reyhoun/acf-hue-color-picker) - allow users to select a hue color value.
