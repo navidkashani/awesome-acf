@@ -39,6 +39,8 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Post Type Chooser](https://github.com/reyhoun/acf-post-type-chooser) - Create a select field populated with selected post types.
 * [Relationship Multisite](https://github.com/tmconnect/acf-relationship-multisite) - Get post, pages and custom post types from another site of your WordPress Multisite installation.
 * [Repeater & Flexible Content Fields Collapser](https://github.com/mrwweb/ACF-Repeater-Collapser) - Easier sorting for large repeated fields in the Advanced Custom Fields plugin.
+* [Reusable Field Group](https://github.com/tybruffy/ACF-Reusable-Field-Group) - allows you to create a group of fields once, and reuse it within any other field group.
+* [Role Selector](https://github.com/danielpataki/acf-role_selector) - allows you to select a user role.
 * [RGBA Color](https://github.com/reyhoun/acf-rgba-color) - RGBA Color Picker field type.
 * [Sidebar Selector](https://github.com/danielpataki/acf-sidebar-selector) - allows you to select a sidebar.
 * [Sites](https://github.com/jonathan-dejong/acf-sites) - provides a field containing the sites in a multisite network.
@@ -48,6 +50,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Validated Field](https://wordpress.org/plugins/validated-field-for-acf/) - provides input masking and validation of other field types.
 * [Website](https://github.com/Jeradin/acf-website-field) - add-on for Website URLs, allows for website URL, title and a checkbox to open externally or internally.
 * [Widget Area](https://github.com/dustyf/acf-widget-area) - Allows you to pick a widget area to be displayed on a page.
+* [WPML ACF Relations](https://github.com/mcguffin/wpml-acf-relations) - Sets ACF Relations to their translated versions when duplicating a WordPress Post for translation with WPML.
 
 
 ## Other Awesome Lists
