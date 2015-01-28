@@ -47,6 +47,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Sites](https://github.com/jonathan-dejong/acf-sites) - provides a field containing the sites in a multisite network.
 * [Star Rating](https://github.com/kevdotbadger/acf-star-rating) - A simple star rating field.
 * [Sub Field Chooser](https://github.com/reyhoun/acf-subfield-chooser) - Return custom subfield value of a custom repeater field as a select box.
+* [Tweet](https://github.com/francoiscote/acf-field-tweet) - gets a single Tweet Data from the twitter API from the tweet ID.
 * [Typography](https://github.com/reyhoun/acf-typography) - provides a field containing the all font css attribute with google font support.
 * [Validated Field](https://wordpress.org/plugins/validated-field-for-acf/) - provides input masking and validation of other field types.
 * [Website](https://github.com/Jeradin/acf-website-field) - add-on for Website URLs, allows for website URL, title and a checkbox to open externally or internally.
