@@ -9,6 +9,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Address](https://github.com/strickdj/acf-field-address) - A field to hold an address: street, city, state, country.
 * [Advanced Taxonomy Selector](https://github.com/danielpataki/acf-advanced-taxonomy-selector) - allows you to create a field for users to select terms from multiple taxonomies.
 * [Auto-generated value](https://github.com/andersthorborg/ACF-auto-generated-value) - Creates a hidden/readonly field in a repeater that gets a unique key, that won't change once it is saved.
+* [Autocomplete Field](https://github.com/iambriansreed/Advanced-Custom-Fields-Autocomplete) - Simple field that looks up values previously entered for this field.
 * [Animate Parameter](https://github.com/reyhoun/acf-animate-parameter) - Get Animate Parameter from user.
 * [Background](https://github.com/reyhoun/acf-background) - provides a field containing the all background css attribute.
 * [Bidirectional Post Relation](https://github.com/hereswhatidid/acf-2way-pr) - Creates an extended version of the Related Post field type that is bidirectional.
