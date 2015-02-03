@@ -39,6 +39,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Pardot Form](https://github.com/adriangonzales/acf-pardot-forms) - embedding Pardot Forms via an ACF dropdown.
 * [PayPal](https://github.com/mikerodriguez/acf-paypal-field) - integrate PayPal forms onto your WP site with the use of ACF.
 * [Post Type Chooser](https://github.com/reyhoun/acf-post-type-chooser) - Create a select field populated with selected post types.
+* [Price](https://github.com/speccode/acf-field-price) - Price Field.
 * [Relationship Multisite](https://github.com/tmconnect/acf-relationship-multisite) - Get post, pages and custom post types from another site of your WordPress Multisite installation.
 * [Repeater & Flexible Content Fields Collapser](https://github.com/mrwweb/ACF-Repeater-Collapser) - Easier sorting for large repeated fields in the Advanced Custom Fields plugin.
 * [Reusable Field Group](https://github.com/tybruffy/ACF-Reusable-Field-Group) - allows you to create a group of fields once, and reuse it within any other field group.
