@@ -30,6 +30,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Hue Color Picker](https://github.com/reyhoun/acf-hue-color-picker) - allow users to select a hue color value.
 * [Image Crop](https://github.com/andersthorborg/ACF-Image-Crop) - Adds an 'Image with user-crop' field type.
 * [Image Resize Parameter](https://github.com/reyhoun/acf-image-resize-parameter) - Get Image Resize Parameter from user.
+* [Instagram](https://github.com/francoiscote/acf-field-instagram) - fetches the Instagram API for a single media information based on the provided shortcode.
 * [Leaflet map](https://github.com/jensjns/acf-leaflet-field) - adds a Leaflet map-field.
 * [Markdown](https://github.com/jensjns/acf-markdown-field) - a textarea with some extra tools and features that makes writing markdown more fun.
 * [Menu Chooser](https://github.com/reyhoun/acf-menu-chooser) - allows you to select a menu.
