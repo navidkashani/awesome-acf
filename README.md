@@ -53,7 +53,8 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Sites](https://github.com/jonathan-dejong/acf-sites) - provides a field containing the sites in a multisite network.
 * [Star Rating](https://github.com/kevdotbadger/acf-star-rating) - A simple star rating field.
 * [Sub Field Chooser](https://github.com/reyhoun/acf-subfield-chooser) - Return custom subfield value of a custom repeater field as a select box.
-* [Tag Field] (https://github.com/kolhoffmmm/acf_tags) - Creates a simple field to add & edit non hieratchical taxonomies, possible to add taxonomies
+* [Tag Field] (https://github.com/kolhoffmmm/acf_tags) - Creates a simple field to add & edit non hieratchical taxonomies, possible to add taxonomies.
+* [Tooltips] (https://github.com/tmconnect/ACF-Tooltip) - hides the instructions, adds a help symbol to the label of the fields and generate a tooltip of the instuction.
 * [Tweet](https://github.com/francoiscote/acf-field-tweet) - gets a single Tweet Data from the twitter API from the tweet ID.
 * [Typography](https://github.com/reyhoun/acf-typography) - provides a field containing the all font css attribute with google font support.
 * [Validated Field](https://wordpress.org/plugins/validated-field-for-acf/) - provides input masking and validation of other field types.
