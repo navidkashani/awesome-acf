@@ -59,7 +59,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Typography](https://github.com/reyhoun/acf-typography) - provides a field containing the all font css attribute with google font support.
 * [Validated Field](https://wordpress.org/plugins/validated-field-for-acf/) - provides input masking and validation of other field types.
 * [Website](https://github.com/Jeradin/acf-website-field) - add-on for Website URLs, allows for website URL, title and a checkbox to open externally or internally.
-* [Widgets](https://github.com/Daronspence/acf-widgets) - With ACFW, you can easily create new widgets without touching any code.
+* [Widgets](http://acfwidgets.com/) - With ACFW, you can easily create new widgets without touching any code.
 * [Widget Area](https://github.com/dustyf/acf-widget-area) - Allows you to pick a widget area to be displayed on a page.
 * [WPML ACF Relations](https://github.com/mcguffin/wpml-acf-relations) - Sets ACF Relations to their translated versions when duplicating a WordPress Post for translation with WPML.
 
