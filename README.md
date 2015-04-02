@@ -44,6 +44,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Post Type Chooser](https://github.com/reyhoun/acf-post-type-chooser) - Create a select field populated with selected post types.
 * [Price](https://github.com/speccode/acf-field-price) - Price Field.
 * [qTranslate X](https://github.com/alancwoo/acf-qtranslate-x-text-area) - Text Area field for qTranslate X.
+* [Random String](https://github.com/lukechapman/acf-random-string-field) - Generates a random string.
 * [Relationship Multisite](https://github.com/tmconnect/acf-relationship-multisite) - Get post, pages and custom post types from another site of your WordPress Multisite installation.
 * [Repeater & Flexible Content Fields Collapser](https://github.com/mrwweb/ACF-Repeater-Collapser) - Easier sorting for large repeated fields in the Advanced Custom Fields plugin.
 * [Reusable Field Group](https://github.com/tybruffy/ACF-Reusable-Field-Group) - allows you to create a group of fields once, and reuse it within any other field group.
