@@ -13,6 +13,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Animate Parameter](https://github.com/reyhoun/acf-animate-parameter) - Get Animate Parameter from user.
 * [Background](https://github.com/reyhoun/acf-background) - provides a field containing the all background css attribute.
 * [Bidirectional Post Relation](https://github.com/hereswhatidid/acf-2way-pr) - Creates an extended version of the Related Post field type that is bidirectional.
+* [Code](https://github.com/mbovel/acf-code) - Code editor field (Ace Code Editor).
 * [Column](https://github.com/tmconnect/ACF-Column-Field) - Arrange ACF fields in columns.
 * [Contact Form 7](https://github.com/taylormsj/acf-cf7) - Store one or multiple contact forms in an advanced custom field.
 * [Country](https://github.com/Vheissu/acf-country-field) - A country, city and state field.
