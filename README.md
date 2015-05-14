@@ -59,6 +59,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Sites](https://github.com/jonathan-dejong/acf-sites) - provides a field containing the sites in a multisite network.
 * [Star Rating](https://github.com/kevdotbadger/acf-star-rating) - A simple star rating field.
 * [Sub Field Chooser](https://github.com/reyhoun/acf-subfield-chooser) - Return custom subfield value of a custom repeater field as a select box.
+* [TablePress] (https://github.com/tylerdigital/acf-tablepress) - select a TablePress table.
 * [Tag Field] (https://github.com/kolhoffmmm/acf_tags) - Creates a simple field to add & edit non hieratchical taxonomies, possible to add taxonomies.
 * [Term] (https://github.com/osadi/osadi-acf-field-term) - Dropdown or multiselect of all available terms.
 * [Timezone] (https://github.com/DocWatson/acf-timezone-picker) - allows you to pick from a list of Time Zones.
