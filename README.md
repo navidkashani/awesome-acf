@@ -50,6 +50,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Post Type Chooser](https://github.com/reyhoun/acf-post-type-chooser) - Create a select field populated with selected post types.
 * [Polylang Fix Relationships](https://github.com/mcguffin/polylang-fix-relationships) - Manage post relationships like attachments or (ACF Relational fields) which are not covered by Polylang plugin.
 * [Price](https://github.com/speccode/acf-field-price) - Price Field.
+* [QuickEdit](https://github.com/mcguffin/acf-quick-edit-fields) - QuickEdit and BulkEdit for Advanced Custom Fields.
 * [qTranslate X](https://github.com/alancwoo/acf-qtranslate-x-text-area) - Text Area field for qTranslate X.
 * [Random String](https://github.com/lukechapman/acf-random-string-field) - Generates a random string.
 * [Relationship Multisite](https://github.com/tmconnect/acf-relationship-multisite) - Get post, pages and custom post types from another site of your WordPress Multisite installation.
