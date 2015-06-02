@@ -48,6 +48,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Pardot Form](https://github.com/adriangonzales/acf-pardot-forms) - embedding Pardot Forms via an ACF dropdown.
 * [PayPal](https://github.com/mikerodriguez/acf-paypal-field) - integrate PayPal forms onto your WP site with the use of ACF.
 * [Post Type Chooser](https://github.com/reyhoun/acf-post-type-chooser) - Create a select field populated with selected post types.
+* [Polylang Fix Relationships](https://github.com/mcguffin/polylang-fix-relationships) - Manage post relationships like attachments or (ACF Relational fields) which are not covered by Polylang plugin.
 * [Price](https://github.com/speccode/acf-field-price) - Price Field.
 * [qTranslate X](https://github.com/alancwoo/acf-qtranslate-x-text-area) - Text Area field for qTranslate X.
 * [Random String](https://github.com/lukechapman/acf-random-string-field) - Generates a random string.
