@@ -73,6 +73,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Widgets](http://acfwidgets.com/) - With ACFW, you can easily create new widgets without touching any code.
 * [Widget Area](https://github.com/dustyf/acf-widget-area) - Allows you to pick a widget area to be displayed on a page.
 * [WPML ACF Relations](https://github.com/mcguffin/wpml-acf-relations) - Sets ACF Relations to their translated versions when duplicating a WordPress Post for translation with WPML.
+* [YouTube Picker](https://github.com/airesvsg/acf-youtubepicker) - Search and select videos on YouTube without leaving the page.
 
 
 ## Other Awesome Lists
