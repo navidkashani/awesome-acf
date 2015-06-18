@@ -43,6 +43,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Markdown](https://github.com/jensjns/acf-markdown-field) - a textarea with some extra tools and features that makes writing markdown more fun.
 * [Menu Chooser](https://github.com/reyhoun/acf-menu-chooser) - allows you to select a menu.
 * [Nav Menu Field](https://github.com/jgraup/advanced-custom-fields-nav-menu-field) - allowing you to select from the menus you create in the WordPress Admin backend to use on your website's frontend.
+* [Ninja Forms](https://github.com/ChuckMac/ninja-forms-acf-field) - select one or many Ninja Forms.
 * [Options Page Adder](https://github.com/Hube2/acf-options-page-adder) - Allows easy creation of options pages using Advanced Custom Fields Pro needing to do any PHP coding.
 * [Pages by Template](https://github.com/jonathan-dejong/acf-pages-by-template) - select a page, filtered on pages of a specific template.
 * [Pardot Form](https://github.com/adriangonzales/acf-pardot-forms) - embedding Pardot Forms via an ACF dropdown.
