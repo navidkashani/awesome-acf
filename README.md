@@ -34,6 +34,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Fold Flexible Content](https://github.com/urre/acf-fold-flexible) - Collapsed flexible content panels and showing icons representing each field type.
 * [Font Awesome](https://wordpress.org/plugins/advanced-custom-fields-font-awesome/) - allow users to select icon from font awesome.
 * [Fontello](https://github.com/aolin480/acf-fontello) - A ACF input for Fontello Icon Fonts.
+* [fontIconPicker](https://github.com/micc83/acf-fonticonpicker) - ACF { fontIconPicker is a Fonts Icons Picker field type.
 * [Google Font Selector](https://github.com/wp-plugins/acf-google-font-selector-field) - allow users to select Google Fonts.
 * [Gravity Forms](https://github.com/stormuk/Gravity-Forms-ACF-Field) - Creates a select field populated with Gravity Forms.
 * [Hue Color Picker](https://github.com/reyhoun/acf-hue-color-picker) - allow users to select a hue color value.
@@ -69,6 +70,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [RGBA Color Picker](https://github.com/mosesdev/acf_rgba_color_picker) - A simple extension to the Wordpress default color picker to allow for an alpha value.
 * [Sidebar Selector](https://github.com/danielpataki/acf-sidebar-selector) - allows you to select a sidebar.
 * [Sites](https://github.com/jonathan-dejong/acf-sites) - provides a field containing the sites in a multisite network.
+* [signature](https://github.com/AsmodeusNOIR/acf-signature) - signature field.
 * [Star Rating](https://github.com/kevdotbadger/acf-star-rating) - A simple star rating field.
 * [Sub Field Chooser](https://github.com/reyhoun/acf-subfield-chooser) - Return custom subfield value of a custom repeater field as a select box.
 * [TablePress] (https://github.com/tylerdigital/acf-tablepress) - select a TablePress table.
