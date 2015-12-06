@@ -36,6 +36,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Fontello](https://github.com/aolin480/acf-fontello) - A ACF input for Fontello Icon Fonts.
 * [fontIconPicker](https://github.com/micc83/acf-fonticonpicker) - ACF { fontIconPicker is a Fonts Icons Picker field type.
 * [Google Font Selector](https://github.com/wp-plugins/acf-google-font-selector-field) - allow users to select Google Fonts.
+* [Google Map Extended](https://github.com/codewahoo/acf-gme) - extending the functionality of the built-in Google Map field with several handy features.
 * [Gravity Forms](https://github.com/stormuk/Gravity-Forms-ACF-Field) - Creates a select field populated with Gravity Forms.
 * [Hue Color Picker](https://github.com/reyhoun/acf-hue-color-picker) - allow users to select a hue color value.
 * [Icon Selector](https://github.com/Kreshnik/acf-field-icon-font) - font icon selector field that lets you preview a font icon.
@@ -54,7 +55,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Pardot Form](https://github.com/adriangonzales/acf-pardot-forms) - embedding Pardot Forms via an ACF dropdown.
 * [PayPal](https://github.com/mikerodriguez/acf-paypal-field) - integrate PayPal forms onto your WP site with the use of ACF.
 * [Post Type Chooser](https://github.com/reyhoun/acf-post-type-chooser) - Create a select field populated with selected post types.
-* [Post Type Select](https://github.com/perlarenee/wp-post-type-select) - Provides the option to select a single or multiple post types.
+* [Post Type Selector](https://github.com/TimPerry/acf-post-type-selector) - Provides the option to select a single or multiple post types.
 * [Polylang Fix Relationships](https://github.com/mcguffin/polylang-fix-relationships) - Manage post relationships like attachments or (ACF Relational fields) which are not covered by Polylang plugin.
 * [Price](https://github.com/speccode/acf-field-price) - Price Field.
 * [QuickEdit](https://github.com/mcguffin/acf-quick-edit-fields) - QuickEdit and BulkEdit for Advanced Custom Fields.
@@ -65,6 +66,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Repeater & Flexible Content Fields Collapser](https://github.com/mrwweb/ACF-Repeater-Collapser) - Easier sorting for large repeated fields in the Advanced Custom Fields plugin.
 * [Repeater Collapser](https://github.com/mcguffin/acf-repeater-collapser) - allowing to collapse / expand ACF repeater fields.
 * [Reusable Field Group](https://github.com/tybruffy/ACF-Reusable-Field-Group) - allows you to create a group of fields once, and reuse it within any other field group.
+* [Reusable Field Group Field](https://github.com/Hube2/acf-reusable-field-group-field) - Field groups are rebuilt using local field groups that override existing field groups.
 * [Role Selector](https://github.com/danielpataki/acf-role_selector) - allows you to select a user role.
 * [RGBA Color](https://github.com/reyhoun/acf-rgba-color) - RGBA Color Picker field type.
 * [RGBA Color Picker](https://github.com/mosesdev/acf_rgba_color_picker) - A simple extension to the Wordpress default color picker to allow for an alpha value.
@@ -73,6 +75,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [signature](https://github.com/AsmodeusNOIR/acf-signature) - signature field.
 * [Star Rating](https://github.com/kevdotbadger/acf-star-rating) - A simple star rating field.
 * [Sub Field Chooser](https://github.com/reyhoun/acf-subfield-chooser) - Return custom subfield value of a custom repeater field as a select box.
+* [Smart Button](https://github.com/gillesgoetsch/acf-smart-button) - A simple, clean and lean acf Field that allows the user to select an internal link as a post_object or an external link as a url field via a smooth toggle.
 * [TablePress] (https://github.com/tylerdigital/acf-tablepress) - select a TablePress table.
 * [Tag Field] (https://github.com/kolhoffmmm/acf_tags) - Creates a simple field to add & edit non hieratchical taxonomies, possible to add taxonomies.
 * [Term] (https://github.com/osadi/osadi-acf-field-term) - Dropdown or multiselect of all available terms.
