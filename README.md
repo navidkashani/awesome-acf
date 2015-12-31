@@ -84,6 +84,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Tweet](https://github.com/francoiscote/acf-field-tweet) - gets a single Tweet Data from the twitter API from the tweet ID.
 * [Typography](https://github.com/reyhoun/acf-typography) - provides a field containing the all font css attribute with google font support.
 * [Validated Field](https://wordpress.org/plugins/validated-field-for-acf/) - provides input masking and validation of other field types.
+* [Viewer](https://github.com/josephfusco/advanced-custom-fields-viewer) - View fields names & data on the front end of your theme while developing.
 * [Website](https://github.com/Jeradin/acf-website-field) - add-on for Website URLs, allows for website URL, title and a checkbox to open externally or internally.
 * [Widgets](http://acfwidgets.com/) - With ACFW, you can easily create new widgets without touching any code.
 * [Widget Area](https://github.com/dustyf/acf-widget-area) - Allows you to pick a widget area to be displayed on a page.
