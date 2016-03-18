@@ -8,6 +8,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 
 * [Address](https://github.com/strickdj/acf-field-address) - A field to hold an address: street, city, state, country.
 * [Address/Map](https://github.com/chrisgoddard/acf-address-map-field) - A better map field for Advanced Custom Fields (includes address, phone, website, etc).
+* [Admin Flexible Content Collapse](https://github.com/tmconnect/ACF-Flexible-Content-Collapse) - Make Flexible Content Field Layouts collapsible in the Field Group Editor.
 * [Advanced Taxonomy Selector](https://github.com/danielpataki/acf-advanced-taxonomy-selector) - allows you to create a field for users to select terms from multiple taxonomies.
 * [Auto-generated value](https://github.com/andersthorborg/ACF-auto-generated-value) - Creates a hidden/readonly field in a repeater that gets a unique key, that won't change once it is saved.
 * [Autocomplete Field](https://github.com/iambriansreed/Advanced-Custom-Fields-Autocomplete) - Simple field that looks up values previously entered for this field.
@@ -27,6 +28,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Divider](https://github.com/Kreshnik/acf-divider-field) - An divider field that lets you group multiple fields under an divider.
 * [Dynamic Table](https://github.com/Jeradin/acf-dynamic-table-field) - Adds a Dynamic Table Field to Advanced Custom Fields.
 * [Enhanced Message Field](https://wordpress.org/plugins/acf-enhanced-message-field/) - Adds an enhanced version of the default Message field to accept PHP and certainly no wpauto().
+* [Extended RGBA Color Picker](https://github.com/tmconnect/ACF-RGBA-Color-Field) - Adds an ACF field for an extended color picker with transparency option.
 * [Fancy Repeater](https://github.com/lucasstark/acf-fancy-repeater-field) - An updated user interface for Repeater Field.
 * [Field Selector](https://github.com/danielpataki/acf-field_selector_field) - allows you to select a custom set of fields.
 * [Frontend display](https://github.com/dadmor/ACF_frontend_display) - display ACF form on frontend your site.
