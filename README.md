@@ -51,6 +51,8 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Nav Menu Field](https://github.com/jgraup/advanced-custom-fields-nav-menu-field) - allowing you to select from the menus you create in the WordPress Admin backend to use on your website's frontend.
 * [Ninja Forms](https://github.com/ChuckMac/ninja-forms-acf-field) - select one or many Ninja Forms.
 * [Options Page Adder](https://github.com/Hube2/acf-options-page-adder) - Allows easy creation of options pages using Advanced Custom Fields Pro needing to do any PHP coding.
+* [Page Builder Field](https://github.com/Angrycreative/ACF-Page-Builder-Field) - This plugin adds a Page Builder (by SiteOrigin) field. Works great with for example flexible content.
+https://github.com/Angrycreative/ACF-Page-Builder-Field
 * [Pages by Template](https://github.com/jonathan-dejong/acf-pages-by-template) - select a page, filtered on pages of a specific template.
 * [Pardot Form](https://github.com/adriangonzales/acf-pardot-forms) - embedding Pardot Forms via an ACF dropdown.
 * [PayPal](https://github.com/mikerodriguez/acf-paypal-field) - integrate PayPal forms onto your WP site with the use of ACF.
