@@ -23,6 +23,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [CSS Margin & Padding Settings](https://github.com/tmconnect/ACF-CSS-Margin-Padding-Settings) - set margins, paddings, border width, border color, border radius and border styling. Also you can set the background and text color.
 * [Child Post](https://github.com/lucasstark/acf-child-post-field) - ability to edit related posts directly from a parent post.
 * [Currency](https://github.com/nekojira/wp-currencies) - Choose currencies using WP Currencies.
+* [Date & Time Picker](https://github.com/toszcze/acf-date-time-picker) - Date & Time Picker field for Advanced Custom Fields 4 and 5.
 * [Date and Time Picker](https://github.com/soderlind/acf-field-date-time-picker) - allows you to add a Date and Time Picker field type.
 * [Divider](https://github.com/Kreshnik/acf-divider-field) - An divider field that lets you group multiple fields under an divider.
 * [Dynamic Table](https://github.com/Jeradin/acf-dynamic-table-field) - Adds a Dynamic Table Field to Advanced Custom Fields.
