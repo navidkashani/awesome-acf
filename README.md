@@ -70,17 +70,18 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Role Selector](https://github.com/danielpataki/acf-role_selector) - allows you to select a user role.
 * [RGBA Color](https://github.com/reyhoun/acf-rgba-color) - RGBA Color Picker field type.
 * [RGBA Color Picker](https://github.com/mosesdev/acf_rgba_color_picker) - A simple extension to the Wordpress default color picker to allow for an alpha value.
+* [Section Styles](https://github.com/ractoon/ACF-Pro-Section-Styles) - A field to configure CSS styles including: padding, border, margin, and backgrounds.
 * [Sidebar Selector](https://github.com/danielpataki/acf-sidebar-selector) - allows you to select a sidebar.
 * [Sites](https://github.com/jonathan-dejong/acf-sites) - provides a field containing the sites in a multisite network.
 * [signature](https://github.com/AsmodeusNOIR/acf-signature) - signature field.
 * [Star Rating](https://github.com/kevdotbadger/acf-star-rating) - A simple star rating field.
 * [Sub Field Chooser](https://github.com/reyhoun/acf-subfield-chooser) - Return custom subfield value of a custom repeater field as a select box.
 * [Smart Button](https://github.com/gillesgoetsch/acf-smart-button) - A simple, clean and lean acf Field that allows the user to select an internal link as a post_object or an external link as a url field via a smooth toggle.
-* [TablePress] (https://github.com/tylerdigital/acf-tablepress) - select a TablePress table.
-* [Tag Field] (https://github.com/kolhoffmmm/acf_tags) - Creates a simple field to add & edit non hieratchical taxonomies, possible to add taxonomies.
-* [Term] (https://github.com/osadi/osadi-acf-field-term) - Dropdown or multiselect of all available terms.
-* [Timezone] (https://github.com/DocWatson/acf-timezone-picker) - allows you to pick from a list of Time Zones.
-* [Tooltips] (https://github.com/tmconnect/ACF-Tooltip) - hides the instructions, adds a help symbol to the label of the fields and generate a tooltip of the instuction.
+* [TablePress](https://github.com/tylerdigital/acf-tablepress) - select a TablePress table.
+* [Tag Field](https://github.com/kolhoffmmm/acf_tags) - Creates a simple field to add & edit non hieratchical taxonomies, possible to add taxonomies.
+* [Term](https://github.com/osadi/osadi-acf-field-term) - Dropdown or multiselect of all available terms.
+* [Timezone](https://github.com/DocWatson/acf-timezone-picker) - allows you to pick from a list of Time Zones.
+* [Tooltips](https://github.com/tmconnect/ACF-Tooltip) - hides the instructions, adds a help symbol to the label of the fields and generate a tooltip of the instuction.
 * [Tweet](https://github.com/francoiscote/acf-field-tweet) - gets a single Tweet Data from the twitter API from the tweet ID.
 * [Typography](https://github.com/reyhoun/acf-typography) - provides a field containing the all font css attribute with google font support.
 * [Validated Field](https://wordpress.org/plugins/validated-field-for-acf/) - provides input masking and validation of other field types.
