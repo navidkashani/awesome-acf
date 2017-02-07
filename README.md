@@ -35,6 +35,7 @@ a collection of third party add-ons for [Advanced Custom Field](http://www.advan
 * [Font Awesome](https://wordpress.org/plugins/advanced-custom-fields-font-awesome/) - allow users to select icon from font awesome.
 * [Fontello](https://github.com/aolin480/acf-fontello) - A ACF input for Fontello Icon Fonts.
 * [fontIconPicker](https://github.com/micc83/acf-fonticonpicker) - ACF { fontIconPicker is a Fonts Icons Picker field type.
+* [Gravity Forms Media Library](https://gravitywiz.com/documentation/gp-media-library-for-gravity-forms/) - Upload your files from Gravity Forms to the WordPress Media Library and Advanced Custom Fields.
 * [Google Font Selector](https://github.com/wp-plugins/acf-google-font-selector-field) - allow users to select Google Fonts.
 * [Google Map Extended](https://github.com/codewahoo/acf-gme) - extending the functionality of the built-in Google Map field with several handy features.
 * [Gravity Forms](https://github.com/stormuk/Gravity-Forms-ACF-Field) - Creates a select field populated with Gravity Forms.
